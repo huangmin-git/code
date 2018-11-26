@@ -1,1 +1,4 @@
-alert("abc");
+function welcome(){
+    alert("wel come");
+
+}
